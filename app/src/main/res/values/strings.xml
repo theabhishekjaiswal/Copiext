@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Copiext</string>
+    <string name="copiext">Copiext</string>
+    <string name="copy_text_from_image">Copy Text From Image</string>
+    <string name="copy">Copy</string>
+    <string name="image">Image</string>
+    <string name="erase">Erase</string>
+    <string name="extracted_text_will_display_here">Extracted text will display here</string>
+</resources>
